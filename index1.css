@@ -1,0 +1,22 @@
+body{
+background-image:url(1.gif) ;
+background-size: cover;
+}
+.container{
+    /*border:1px solid blue; */
+    width: 220px;
+    height: 170px;
+    padding-right: 0%;
+    margin: 80px auto;
+    border-radius: 10%;
+    box-shadow: rgba(44, 28, 116, 0.316);
+    background-color: rgba(243, 243, 247, 0.292);
+
+}
+h2{
+    color: rgb(8, 16, 161);
+    text-align: center;
+}
+body{
+    text-align: center;
+}
